@@ -78,7 +78,7 @@ def estimate_tv_xrmb(infile, opdir):
 #        plt.plot(tv[ii,:],color='red')
 #        plt.plot(tv_smth[ii,:],color='blue')       
 #    plt.show()
-    opdir = opdir+dirname
+    opdir = opdir
     opfnm = opdir+'/'+fname+'.mat'
 #    writehtk(tv_smth.T, 10, opfnm)
     outvar = {}
