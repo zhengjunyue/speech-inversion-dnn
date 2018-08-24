@@ -20,7 +20,6 @@ doi = {10.21437/Interspeech.2016-1399},
 issn = {19909772},
 keywords = {Acoustic to articulatory speech inversion,Speaker normalization,Vocal Tract Length Normalization},
 title = {{Vocal tract length normalization for speaker independent acoustic-to-articulatory speech inversion}},
-volume = {08-12-Sept},
 year = {2016}
 }
 
@@ -28,10 +27,8 @@ Sivaraman, Ganesh. 2017. “Articulatory Representations to Address Acoustic Var
 Bibtex entry:
 @phdthesis{Sivaraman2017a,
 author = {Sivaraman, Ganesh},
-mendeley-groups = {noiserobust{\_}si{\_}IS18,globalSIP{\_}2018},
 school = {University of Maryland College Park},
 title = {{Articulatory representations to address acoustic variability in speech}},
-url = {https://drum.lib.umd.edu/handle/1903/20422},
 year = {2017}
 }
 
